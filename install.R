@@ -1,0 +1,7 @@
+install.packages("devtools")
+install.packages("httr")
+install.packages("jsonlite")
+install.packages("readr")
+install.packages("stringr")
+install.packages("tidyr")
+install.packages("vcfR")

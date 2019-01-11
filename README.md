@@ -1,6 +1,8 @@
 # NGS Data Analysis - Practice  
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robertopreste/ngs_data_practice/master)  
+Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robertopreste/ngs_data_practice/master)  
+RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robertopreste/ngs_data_practice/master?urlpath=rstudio)  
+
 Main repository for the practice based on the [NGS Data Analysis](https://bit.ly/ngs-data) lesson.  
 
 Protocols for this practice are available in the three notebooks in this repository. They can be accessed by directly clicking on them or using the **launch binder** button above.  
