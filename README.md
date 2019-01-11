@@ -8,8 +8,8 @@ Protocols for this practice are available in the three notebooks in this reposit
 ## Structure  
 
 * [01_Overview](01_Overview.ipynb) - setup instructions and introduction to the used tools 
-* [02_Galaxy](02_Galaxy.ipynb) - main analysis using [Galaxy](https://usegalaxy.org) 
-* [03_RStudio](03_RStudio.ipynb) - variants functional annotation and visualization 
+* [02_Galaxy](02_Galaxy.ipynb) - main data analysis using [Galaxy](https://usegalaxy.org) 
+* [03_RStudio](03_RStudio.ipynb) - variants functional annotation and visualization using [RStudio Cloud](https://rstudio.cloud)
 
 ## Requirements  
 
